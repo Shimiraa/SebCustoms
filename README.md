@@ -13,8 +13,8 @@ Eine Spielerliste für alle Spieler die in League of Legends 5v5 Customs mitgesp
 
 ## Liste
 
-| Name | Main Rolle(n) | Secondary Rolle(n) | Rang |
-| :--- | :------------ | :----------------- | :--- |
+| **Name** | **Main Rolle(n)** | **Secondary Rolle(n)** | **Rang** |
+| :------- | :---------------- | :--------------------- | :------- |
 | Betonmischa | Jungle / Support | Mid | Gold |
 | BotSwaeg | Support | - | Emerald |
 | CyTék | Top / Support | ADC / Mid | Emerald |
@@ -36,7 +36,7 @@ Eine Spielerliste für alle Spieler die in League of Legends 5v5 Customs mitgesp
 | SebLord | Jungle | Top | Platin |
 | Slowbash | ADC | Jungle | Emerald |
 | smaxes | Mid / Top | Support / Jungle | Unranked (Platin) |
-| Telekoma | Top / ADC (Championabhängig) |  | Emerald |
+| Telekoma | Top / ADC (Championabhängig) | - | Emerald |
 | Xipsylon | Mid | - | Bronze |
 | xXIceChampXx | Top / Support | Mid | Bronze |
 | zamy | "Schlecht in allem" | Keine Ahnung | Iron |
@@ -45,8 +45,8 @@ Eine Spielerliste für alle Spieler die in League of Legends 5v5 Customs mitgesp
 
 ### Top
 
-| Name | Rang | Main? |
-| :--- | :--- | :---- |
+| **Name** | **Rang** | **Main?** |
+| :------- | :------- | :-------- |
 | CyTék | Emerald | Ja |
 | Hellofriending | Iron | Ja |
 | MagisMagie | Gold | Ja |
@@ -62,8 +62,8 @@ Eine Spielerliste für alle Spieler die in League of Legends 5v5 Customs mitgesp
 
 ### Jungle
 
-| Name | Rang | Main? |
-| :--- | :--- | :---- |
+| **Name** | **Rang** | **Main?** |
+| :------- | :------- | :-------- |
 | Betonmischa | Gold | Ja |
 | Dsus minor | Platin | Ja |
 | Edyrra | Emerald | Ja |
@@ -79,8 +79,8 @@ Eine Spielerliste für alle Spieler die in League of Legends 5v5 Customs mitgesp
 
 ### Mid
 
-| Name | Rang | Main? |
-| :--- | :--- | :---- |
+| **Name** | **Rang** | **Main?** |
+| :------- | :------- | :-------- |
 | Dsus minor | Platin | Ja |
 | Edyrra | Emerald | Ja |
 | FFennek | Silber | Ja |
@@ -98,8 +98,8 @@ Eine Spielerliste für alle Spieler die in League of Legends 5v5 Customs mitgesp
 
 ### ADC
 
-| Name | Rang | Main? |
-| :--- | :--- | :---- |
+| **Name** | **Rang** | **Main?** |
+| :------- | :------- | :-------- |
 | LAME Oreksen | Diamond | Ja |
 | Slowbash | Emerald | Ja |
 | Telekoma | Emerald | Ja |
@@ -110,8 +110,8 @@ Eine Spielerliste für alle Spieler die in League of Legends 5v5 Customs mitgesp
 
 ### Support
 
-| Name | Rang | Main? |
-| :--- | :--- | :---- |
+| **Name** | **Rang** | **Main?** |
+| :------- | :------- | :-------- |
 | Betonmischa | Gold | Ja |
 | BotSwaeg | Emerald | Ja |
 | CyTék | Emerald | Ja |
